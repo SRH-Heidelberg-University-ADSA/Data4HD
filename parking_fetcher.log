@@ -1,0 +1,256 @@
+2025-06-12 20:15:23,834 [INFO] Starting parking data fetcher.
+2025-06-12 20:15:23,834 [INFO] Run 1/60
+2025-06-12 20:15:23,947 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 20:15:23,947 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 20:15:23,948 [INFO] Appended data to parking_data.json
+2025-06-12 20:16:23,958 [INFO] Run 2/60
+2025-06-12 20:16:24,059 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 20:16:24,059 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 20:16:24,062 [INFO] Appended data to parking_data.json
+2025-06-12 20:17:24,057 [INFO] Run 3/60
+2025-06-12 20:17:24,144 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 20:17:24,145 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 20:17:24,147 [INFO] Appended data to parking_data.json
+2025-06-12 20:18:24,125 [INFO] Run 4/60
+2025-06-12 20:18:24,209 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 20:18:24,210 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 20:18:24,211 [INFO] Appended data to parking_data.json
+2025-06-12 20:19:24,216 [INFO] Run 5/60
+2025-06-12 20:19:24,304 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 20:19:24,305 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 20:19:24,307 [INFO] Appended data to parking_data.json
+2025-06-12 20:20:24,311 [INFO] Run 6/60
+2025-06-12 20:20:24,423 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 20:20:24,428 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 20:20:24,431 [INFO] Appended data to parking_data.json
+2025-06-12 20:21:24,436 [INFO] Run 7/60
+2025-06-12 20:21:24,533 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 20:21:24,534 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 20:21:24,536 [INFO] Appended data to parking_data.json
+2025-06-12 20:22:24,541 [INFO] Run 8/60
+2025-06-12 20:22:24,625 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 20:22:24,626 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 20:22:24,629 [INFO] Appended data to parking_data.json
+2025-06-12 20:31:11,979 [INFO] Run 9/60
+2025-06-12 20:31:22,030 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 20:31:22,032 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 20:31:22,035 [INFO] Appended data to parking_data.json
+2025-06-12 21:03:02,675 [INFO] Run 10/60
+2025-06-12 21:03:02,694 [WARNING] Fetch attempt 1 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Max retries exceeded with url: /stellplatz/bcpext.xml (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x101c479d0>: Failed to resolve 'www.bcp-bonn.de' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-06-12 21:03:07,704 [WARNING] Fetch attempt 2 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Max retries exceeded with url: /stellplatz/bcpext.xml (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x101c47ed0>: Failed to resolve 'www.bcp-bonn.de' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-06-12 21:03:17,714 [WARNING] Fetch attempt 3 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Max retries exceeded with url: /stellplatz/bcpext.xml (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x101c474d0>: Failed to resolve 'www.bcp-bonn.de' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-06-12 21:03:17,715 [ERROR] Max retries reached. Giving up on this iteration.
+2025-06-12 21:03:17,715 [WARNING] Skipping this run due to fetch failure.
+2025-06-12 21:04:17,700 [INFO] Run 11/60
+2025-06-12 21:04:19,855 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:04:19,856 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:04:19,861 [INFO] Appended data to parking_data.json
+2025-06-12 21:05:19,864 [INFO] Run 12/60
+2025-06-12 21:05:20,336 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:05:20,337 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:05:20,345 [INFO] Appended data to parking_data.json
+2025-06-12 21:06:20,347 [INFO] Run 13/60
+2025-06-12 21:06:21,460 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:06:21,462 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:06:21,469 [INFO] Appended data to parking_data.json
+2025-06-12 21:07:21,473 [INFO] Run 14/60
+2025-06-12 21:07:21,737 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:07:21,738 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:07:21,746 [INFO] Appended data to parking_data.json
+2025-06-12 21:08:21,750 [INFO] Run 15/60
+2025-06-12 21:08:22,264 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:08:22,265 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:08:22,272 [INFO] Appended data to parking_data.json
+2025-06-12 21:09:22,274 [INFO] Run 16/60
+2025-06-12 21:09:23,019 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:09:23,021 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:09:23,029 [INFO] Appended data to parking_data.json
+2025-06-12 21:10:23,034 [INFO] Run 17/60
+2025-06-12 21:10:23,298 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:10:23,299 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:10:23,304 [INFO] Appended data to parking_data.json
+2025-06-12 21:11:23,308 [INFO] Run 18/60
+2025-06-12 21:11:23,722 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:11:23,724 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:11:23,733 [INFO] Appended data to parking_data.json
+2025-06-12 21:12:23,737 [INFO] Run 19/60
+2025-06-12 21:12:23,980 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:12:23,982 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:12:23,989 [INFO] Appended data to parking_data.json
+2025-06-12 21:13:23,989 [INFO] Run 20/60
+2025-06-12 21:13:24,318 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:13:24,319 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:13:24,325 [INFO] Appended data to parking_data.json
+2025-06-12 21:14:24,330 [INFO] Run 21/60
+2025-06-12 21:14:24,664 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:14:24,665 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:14:24,676 [INFO] Appended data to parking_data.json
+2025-06-12 21:15:24,680 [INFO] Run 22/60
+2025-06-12 21:15:25,089 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:15:25,090 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:15:25,100 [INFO] Appended data to parking_data.json
+2025-06-12 21:16:25,103 [INFO] Run 23/60
+2025-06-12 21:16:25,371 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:16:25,373 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:16:25,383 [INFO] Appended data to parking_data.json
+2025-06-12 21:17:25,383 [INFO] Run 24/60
+2025-06-12 21:17:25,882 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:17:25,883 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:17:25,896 [INFO] Appended data to parking_data.json
+2025-06-12 21:18:25,897 [INFO] Run 25/60
+2025-06-12 21:18:26,178 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:18:26,179 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:18:26,190 [INFO] Appended data to parking_data.json
+2025-06-12 21:25:12,411 [INFO] Run 26/60
+2025-06-12 21:25:14,880 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:25:14,881 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:25:14,892 [INFO] Appended data to parking_data.json
+2025-06-12 21:26:14,898 [INFO] Run 27/60
+2025-06-12 21:26:15,346 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:26:15,347 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:26:15,358 [INFO] Appended data to parking_data.json
+2025-06-12 21:27:15,362 [INFO] Run 28/60
+2025-06-12 21:27:35,372 [WARNING] Fetch attempt 1 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Max retries exceeded with url: /stellplatz/bcpext.xml (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x101c47b10>, 'Connection to www.bcp-bonn.de timed out. (connect timeout=10)'))
+2025-06-12 21:27:40,383 [WARNING] Fetch attempt 2 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Max retries exceeded with url: /stellplatz/bcpext.xml (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x101c474d0>: Failed to resolve 'www.bcp-bonn.de' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-06-12 21:27:50,393 [WARNING] Fetch attempt 3 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Max retries exceeded with url: /stellplatz/bcpext.xml (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x101c47750>: Failed to resolve 'www.bcp-bonn.de' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-06-12 21:27:50,394 [ERROR] Max retries reached. Giving up on this iteration.
+2025-06-12 21:27:50,394 [WARNING] Skipping this run due to fetch failure.
+2025-06-12 21:28:50,397 [INFO] Run 29/60
+2025-06-12 21:28:50,409 [WARNING] Fetch attempt 1 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Max retries exceeded with url: /stellplatz/bcpext.xml (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x101c47610>: Failed to resolve 'www.bcp-bonn.de' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-06-12 21:28:55,415 [WARNING] Fetch attempt 2 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Max retries exceeded with url: /stellplatz/bcpext.xml (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x101c465d0>: Failed to resolve 'www.bcp-bonn.de' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-06-12 21:29:05,425 [WARNING] Fetch attempt 3 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Max retries exceeded with url: /stellplatz/bcpext.xml (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x101d68550>: Failed to resolve 'www.bcp-bonn.de' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-06-12 21:29:05,425 [ERROR] Max retries reached. Giving up on this iteration.
+2025-06-12 21:29:05,425 [WARNING] Skipping this run due to fetch failure.
+2025-06-12 21:30:05,428 [INFO] Run 30/60
+2025-06-12 21:30:05,776 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:30:05,782 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:30:05,792 [INFO] Appended data to parking_data.json
+2025-06-12 21:31:05,796 [INFO] Run 31/60
+2025-06-12 21:31:21,625 [WARNING] Fetch attempt 1 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Read timed out. (read timeout=10)
+2025-06-12 21:31:36,953 [WARNING] Fetch attempt 2 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Read timed out. (read timeout=10)
+2025-06-12 21:31:57,309 [WARNING] Fetch attempt 3 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Read timed out. (read timeout=10)
+2025-06-12 21:31:57,310 [ERROR] Max retries reached. Giving up on this iteration.
+2025-06-12 21:31:57,310 [WARNING] Skipping this run due to fetch failure.
+2025-06-12 21:32:57,314 [INFO] Run 32/60
+2025-06-12 21:32:59,339 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:32:59,339 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:32:59,350 [INFO] Appended data to parking_data.json
+2025-06-12 21:33:59,353 [INFO] Run 33/60
+2025-06-12 21:33:59,718 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:33:59,720 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:33:59,735 [INFO] Appended data to parking_data.json
+2025-06-12 21:34:59,739 [INFO] Run 34/60
+2025-06-12 21:35:00,001 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:35:00,002 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:35:00,018 [INFO] Appended data to parking_data.json
+2025-06-12 21:36:00,021 [INFO] Run 35/60
+2025-06-12 21:36:00,267 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:36:00,268 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:36:00,277 [INFO] Appended data to parking_data.json
+2025-06-12 21:37:00,285 [INFO] Run 36/60
+2025-06-12 21:37:00,515 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:37:00,516 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:37:00,528 [INFO] Appended data to parking_data.json
+2025-06-12 21:38:00,529 [INFO] Run 37/60
+2025-06-12 21:38:00,767 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:38:00,768 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:38:00,780 [INFO] Appended data to parking_data.json
+2025-06-12 21:39:00,785 [INFO] Run 38/60
+2025-06-12 21:39:01,026 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:39:01,027 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:39:01,039 [INFO] Appended data to parking_data.json
+2025-06-12 21:40:01,045 [INFO] Run 39/60
+2025-06-12 21:40:02,189 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:40:02,190 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:40:02,204 [INFO] Appended data to parking_data.json
+2025-06-12 21:41:02,206 [INFO] Run 40/60
+2025-06-12 21:41:05,287 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:41:05,289 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:41:05,303 [INFO] Appended data to parking_data.json
+2025-06-12 21:42:05,302 [INFO] Run 41/60
+2025-06-12 21:42:07,650 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:42:07,651 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:42:07,662 [INFO] Appended data to parking_data.json
+2025-06-12 21:43:07,663 [INFO] Run 42/60
+2025-06-12 21:43:08,000 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:43:08,001 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:43:08,016 [INFO] Appended data to parking_data.json
+2025-06-12 21:53:59,102 [INFO] Run 43/60
+2025-06-12 21:53:59,111 [WARNING] Fetch attempt 1 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Max retries exceeded with url: /stellplatz/bcpext.xml (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x101c465d0>: Failed to resolve 'www.bcp-bonn.de' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-06-12 21:54:04,117 [WARNING] Fetch attempt 2 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Max retries exceeded with url: /stellplatz/bcpext.xml (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x101c47610>: Failed to resolve 'www.bcp-bonn.de' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-06-12 21:54:14,124 [WARNING] Fetch attempt 3 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Max retries exceeded with url: /stellplatz/bcpext.xml (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x101c47750>: Failed to resolve 'www.bcp-bonn.de' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-06-12 21:54:14,125 [ERROR] Max retries reached. Giving up on this iteration.
+2025-06-12 21:54:14,125 [WARNING] Skipping this run due to fetch failure.
+2025-06-12 21:55:14,131 [INFO] Run 44/60
+2025-06-12 21:55:14,142 [WARNING] Fetch attempt 1 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Max retries exceeded with url: /stellplatz/bcpext.xml (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x101c474d0>: Failed to resolve 'www.bcp-bonn.de' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-06-12 21:55:19,150 [WARNING] Fetch attempt 2 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Max retries exceeded with url: /stellplatz/bcpext.xml (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x101c47b10>: Failed to resolve 'www.bcp-bonn.de' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-06-12 21:55:29,157 [WARNING] Fetch attempt 3 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Max retries exceeded with url: /stellplatz/bcpext.xml (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x101d68b90>: Failed to resolve 'www.bcp-bonn.de' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-06-12 21:55:29,158 [ERROR] Max retries reached. Giving up on this iteration.
+2025-06-12 21:55:29,158 [WARNING] Skipping this run due to fetch failure.
+2025-06-12 21:56:29,162 [INFO] Run 45/60
+2025-06-12 21:56:29,166 [WARNING] Fetch attempt 1 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Max retries exceeded with url: /stellplatz/bcpext.xml (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x101d687d0>: Failed to resolve 'www.bcp-bonn.de' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-06-12 21:56:34,176 [WARNING] Fetch attempt 2 failed: HTTPSConnectionPool(host='www.bcp-bonn.de', port=443): Max retries exceeded with url: /stellplatz/bcpext.xml (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x101d68550>: Failed to resolve 'www.bcp-bonn.de' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-06-12 21:56:45,340 [INFO] Successfully fetched XML data on attempt 3
+2025-06-12 21:56:45,341 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:56:45,350 [INFO] Appended data to parking_data.json
+2025-06-12 21:57:45,356 [INFO] Run 46/60
+2025-06-12 21:57:45,641 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:57:45,642 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:57:45,659 [INFO] Appended data to parking_data.json
+2025-06-12 21:58:45,660 [INFO] Run 47/60
+2025-06-12 21:58:46,188 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:58:46,189 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:58:46,203 [INFO] Appended data to parking_data.json
+2025-06-12 21:59:46,209 [INFO] Run 48/60
+2025-06-12 21:59:46,479 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 21:59:46,481 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 21:59:46,495 [INFO] Appended data to parking_data.json
+2025-06-12 22:00:46,497 [INFO] Run 49/60
+2025-06-12 22:00:46,765 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 22:00:46,766 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 22:00:46,779 [INFO] Appended data to parking_data.json
+2025-06-12 22:01:46,785 [INFO] Run 50/60
+2025-06-12 22:01:47,047 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 22:01:47,048 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 22:01:47,062 [INFO] Appended data to parking_data.json
+2025-06-12 22:02:47,066 [INFO] Run 51/60
+2025-06-12 22:02:47,311 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 22:02:47,312 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 22:02:47,328 [INFO] Appended data to parking_data.json
+2025-06-12 22:03:47,333 [INFO] Run 52/60
+2025-06-12 22:03:48,595 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 22:03:48,596 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 22:03:48,616 [INFO] Appended data to parking_data.json
+2025-06-12 22:04:48,618 [INFO] Run 53/60
+2025-06-12 22:04:48,875 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 22:04:48,876 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 22:04:48,894 [INFO] Appended data to parking_data.json
+2025-06-12 22:05:48,900 [INFO] Run 54/60
+2025-06-12 22:05:49,177 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 22:05:49,179 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 22:05:49,192 [INFO] Appended data to parking_data.json
+2025-06-12 22:06:49,197 [INFO] Run 55/60
+2025-06-12 22:06:49,488 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 22:06:49,489 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 22:06:49,505 [INFO] Appended data to parking_data.json
+2025-06-12 22:07:49,511 [INFO] Run 56/60
+2025-06-12 22:07:49,794 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 22:07:49,795 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 22:07:49,812 [INFO] Appended data to parking_data.json
+2025-06-12 22:08:49,812 [INFO] Run 57/60
+2025-06-12 22:08:50,091 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 22:08:50,092 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 22:08:50,110 [INFO] Appended data to parking_data.json
+2025-06-12 22:09:50,113 [INFO] Run 58/60
+2025-06-12 22:09:50,350 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 22:09:50,351 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 22:09:50,362 [INFO] Appended data to parking_data.json
+2025-06-12 22:10:50,363 [INFO] Run 59/60
+2025-06-12 22:10:50,593 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 22:10:50,594 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 22:10:50,605 [INFO] Appended data to parking_data.json
+2025-06-12 22:11:50,611 [INFO] Run 60/60
+2025-06-12 22:11:50,873 [INFO] Successfully fetched XML data on attempt 1
+2025-06-12 22:11:50,874 [INFO] Parsed 14 parking entries from XML.
+2025-06-12 22:11:50,891 [INFO] Appended data to parking_data.json
+2025-06-12 22:12:50,896 [INFO] Reached maximum run count. Exiting.
