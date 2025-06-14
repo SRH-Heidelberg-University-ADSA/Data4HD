@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0992088012, 50.7372881232]
+      },
+      "properties": {
+        "parkplatz_id": 130,
+        "bezeichnung": "Kesselgasse Ecke Oxfordstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1044870826, 50.737373597]
+      },
+      "properties": {
+        "parkplatz_id": 131,
+        "bezeichnung": "Berliner Freiheit Nr. 17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1033113972, 50.7341225006]
+      },
+      "properties": {
+        "parkplatz_id": 132,
+        "bezeichnung": "An der Schloßkirche Ecke Stockenstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1025963151, 50.7348447216]
+      },
+      "properties": {
+        "parkplatz_id": 133,
+        "bezeichnung": "Bischofsplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0998831266, 50.7330184649]
+      },
+      "properties": {
+        "parkplatz_id": 137,
+        "bezeichnung": "Gerhard-von-Are-Straße Ecke Wesselstraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.12029761, 50.7148338456]
+      },
+      "properties": {
+        "parkplatz_id": 136,
+        "bezeichnung": "Emil-Nolde-Straße (hinter Kunstmuseum Bonn)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0964493639, 50.7366636499]
+      },
+      "properties": {
+        "parkplatz_id": 129,
+        "bezeichnung": "Thomas-Mann-Straße 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0740697495, 50.7267094149]
+      },
+      "properties": {
+        "parkplatz_id": 135,
+        "bezeichnung": "Magdalenenstraße zwischen Frongasse und Endenicher Straße (Rückseite der Gaststätte Harmonie)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1084602582, 50.7264253319]
+      },
+      "properties": {
+        "parkplatz_id": 138,
+        "bezeichnung": "Niebuhrstraße 33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0943780356, 50.7360725841]
+      },
+      "properties": {
+        "parkplatz_id": 139,
+        "bezeichnung": "Berliner Platz Ecke Budapester Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1017756414, 50.7314768717]
+      },
+      "properties": {
+        "parkplatz_id": 134,
+        "bezeichnung": "Kaiserstraße gegenüber Haus Nr. 6"
+      }
+    }
+  ]
+}

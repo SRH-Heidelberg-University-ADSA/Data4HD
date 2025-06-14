@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1069114542, 50.7320606838]
+      },
+      "properties": {
+        "parkplatz_id": 126,
+        "bezeichnung": "Adenauerallee / Ecke Am Hofgarten (4 Stellplätze)",
+        "the_geom": null,
+        "eigentum": 2,
+        "art": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1062654885, 50.7411418187]
+      },
+      "properties": {
+        "parkplatz_id": 127,
+        "bezeichnung": "Fritz-Schroeder-Ufer (unterhalb Beethovenhalle) zwischen Wachsbleiche und Theaterstraße (7 Stellplätze). Ca. 1000 m Fußweg bis zur Bonn Information.",
+        "the_geom": null,
+        "eigentum": 2,
+        "art": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1352358432, 50.7121733171]
+      },
+      "properties": {
+        "parkplatz_id": 147,
+        "bezeichnung": "Petra-Kelly-Allee (6 Stellplätze)",
+        "the_geom": null,
+        "eigentum": 2,
+        "art": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1202011022, 50.7129061614]
+      },
+      "properties": {
+        "parkplatz_id": 128,
+        "bezeichnung": "Joseph-Beuys-Allee (zwischen Marie-Kahle-Allee und Emil-Nolde-Straße). Fernbushaltestelle (Flixbus, 2 Stellplätze), Reisebusse (9 Stellplätze, Kurzzeit- und Langzeitparken)",
+        "the_geom": null,
+        "eigentum": 2,
+        "art": 2
+      }
+    }
+  ]
+}
