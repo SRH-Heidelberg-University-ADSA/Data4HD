@@ -13,7 +13,7 @@ st.set_page_config(layout="wide", page_title="City Parking Data Comparison")
 
 # --- Data Loading Functions ---
 
-@st.cache_data
+@st.cache_data # Using st.cache_data for DataFrame caching
 def load_heidelberg_data():
     """Loads Heidelberg parking data from local CSV files."""
     data = {}
@@ -56,7 +56,7 @@ def load_heidelberg_data():
         return None
     return data
 
-@st.cache_data
+@st.cache_data # Using st.cache_data for DataFrame caching
 def load_bonn_data():
     """Loads Bonn parking data from GitHub GeoJSON/JSON URLs with robust error handling."""
     bonn_urls = {
@@ -181,7 +181,7 @@ def main():
 
     # --- Section: Overall Summary ---
     if selected_view == "Overall Summary":
-        st.subheader("Overall Parking Infrastructure Summary")
+        st.subheader("1. Overall Parking Infrastructure Summary")
         col1, col2 = st.columns(2)
 
         with col1:
@@ -202,99 +202,68 @@ def main():
             num_resident_bn = (bonn_data['resident_parking_1'].shape[0] + bonn_data['resident_parking_2'].shape[0]) if ('resident_parking_1' in bonn_data and 'resident_parking_2' in bonn_data) and (not bonn_data['resident_parking_1'].empty or not bonn_data['resident_parking_2'].empty) else 0
             num_motorcycle_bn = bonn_data['motorcycle_parking'].shape[0] if 'motorcycle_parking' in bonn_data and not bonn_data['motorcycle_parking'].empty else 0
             num_bus_bn = bonn_data['bus_parking'].shape[0] if 'bus_parking' in bonn_data and not bonn_data['bus_parking'].empty else 0
+            num_general_bn = bonn_data['general_parking'].shape[0] if 'general_parking' in bonn_data and not bonn_data['general_parking'].empty else 0
+
 
             st.metric("Parking Garages (Count)", num_garages_bn)
             st.metric("Park & Ride Locations (Count)", num_pr_bn)
             st.metric("Resident Parking Zones (Count)", num_resident_bn)
             st.metric("Motorcycle Parking (Count)", num_motorcycle_bn)
             st.metric("Bus Parking (Count)", num_bus_bn)
+            if num_general_bn == 0 and 'general_parking' in bonn_data and bonn_data['general_parking'].empty:
+                st.warning("General Parking data for Bonn could not be loaded due to a URL error.")
             st.markdown("*(Bonn offers a broad static inventory of on-street parking types)*")
 
+
         st.markdown("---")
-        st.subheader("Comparative Visualizations")
+        st.subheader("2. Comparative Visualizations")
 
         st.markdown("#### Parking Facility Counts by Type")
-        comparison_data = {
-            'City': [], 'Parking Type': [], 'Count': []
-        }
         
-        comparison_data['City'].append('Heidelberg')
-        comparison_data['Parking Type'].append('Parking Garages')
-        comparison_data['Count'].append(num_garages_hd)
-        
-        comparison_data['City'].append('Heidelberg')
-        comparison_data['Parking Type'].append('Disabled Parking')
-        comparison_data['Count'].append(num_disabled_hd)
+        col_hd_counts, col_bn_counts = st.columns(2)
 
-        comparison_data['City'].append('Bonn')
-        comparison_data['Parking Type'].append('Parking Garages')
-        comparison_data['Count'].append(num_garages_bn)
+        with col_hd_counts:
+            st.markdown("##### Heidelberg")
+            heidelberg_counts_data = {
+                'Parking Type': ['Parking Garages', 'Disabled Parking'],
+                'Count': [num_garages_hd, num_disabled_hd]
+            }
+            hd_counts_df = pd.DataFrame(heidelberg_counts_data)
+            fig_hd_counts = px.bar(
+                hd_counts_df,
+                x='Count',
+                y='Parking Type',
+                orientation='h',
+                title='Heidelberg Parking Facilities',
+                labels={'Count': 'Number of Facilities'},
+                height=300
+            )
+            fig_hd_counts.update_layout(yaxis={'categoryorder':'total ascending'})
+            st.plotly_chart(fig_hd_counts, use_container_width=True)
 
-        comparison_data['City'].append('Bonn')
-        comparison_data['Parking Type'].append('Park & Ride')
-        comparison_data['Count'].append(num_pr_bn)
-
-        comparison_data['City'].append('Bonn')
-        comparison_data['Parking Type'].append('Resident Zones')
-        comparison_data['Count'].append(num_resident_bn)
-        
-        comparison_data['City'].append('Bonn')
-        comparison_data['Parking Type'].append('Motorcycle Parking')
-        comparison_data['Count'].append(num_motorcycle_bn)
-
-        comparison_data['City'].append('Bonn')
-        comparison_data['Parking Type'].append('Bus Parking')
-        comparison_data['Count'].append(num_bus_bn)
-
-        comp_df = pd.DataFrame(comparison_data)
-
-        fig_comp_counts = px.bar(
-            comp_df,
-            x='Parking Type',
-            y='Count',
-            color='City',
-            barmode='group',
-            title='Parking Facility Counts by Type across Cities',
-            labels={'Count': 'Number of Facilities'},
-            height=400
-        )
-        st.plotly_chart(fig_comp_counts, use_container_width=True)
-
-        st.markdown("#### Parking Type Distribution")
-        
-        col_dist1, col_dist2 = st.columns(2)
-
-        with col_dist1:
-            hd_types = []
-            if num_garages_hd > 0: hd_types.append({'Type': 'Parking Garages', 'Count': num_garages_hd})
-            if num_disabled_hd > 0: hd_types.append({'Type': 'Disabled Parking', 'Count': num_disabled_hd})
-            
-            if hd_types:
-                hd_dist_df = pd.DataFrame(hd_types)
-                fig_hd_dist = px.pie(hd_dist_df, values='Count', names='Type', title='Heidelberg Parking Types')
-                st.plotly_chart(fig_hd_dist, use_container_width=True)
-            else:
-                st.info("No parking type distribution data available for Heidelberg.")
-
-        with col_dist2:
-            bonn_types = []
-            if num_garages_bn > 0: bonn_types.append({'Type': 'Parking Garages', 'Count': num_garages_bn})
-            if num_pr_bn > 0: bonn_types.append({'Type': 'Park & Ride', 'Count': num_pr_bn})
-            if num_resident_bn > 0: bonn_types.append({'Type': 'Resident Zones', 'Count': num_resident_bn})
-            if num_motorcycle_bn > 0: bonn_types.append({'Type': 'Motorcycle Parking', 'Count': num_motorcycle_bn})
-            if num_bus_bn > 0: bonn_types.append({'Type': 'Bus Parking', 'Count': num_bus_bn})
-
-            if bonn_types:
-                bonn_dist_df = pd.DataFrame(bonn_types)
-                fig_bonn_dist = px.pie(bonn_dist_df, values='Count', names='Type', title='Bonn Parking Types')
-                st.plotly_chart(fig_bonn_dist, use_container_width=True)
-            else:
-                st.info("No parking type distribution data available for Bonn.")
+        with col_bn_counts:
+            st.markdown("##### Bonn")
+            bonn_counts_data = {
+                'Parking Type': ['Parking Garages', 'Park & Ride', 'Resident Zones', 'Motorcycle Parking', 'Bus Parking'],
+                'Count': [num_garages_bn, num_pr_bn, num_resident_bn, num_motorcycle_bn, num_bus_bn]
+            }
+            bn_counts_df = pd.DataFrame(bonn_counts_data)
+            fig_bn_counts = px.bar(
+                bn_counts_df,
+                x='Count',
+                y='Parking Type',
+                orientation='h',
+                title='Bonn Parking Facilities',
+                labels={'Count': 'Number of Facilities'},
+                height=300
+            )
+            fig_bn_counts.update_layout(yaxis={'categoryorder':'total ascending'})
+            st.plotly_chart(fig_bn_counts, use_container_width=True)
 
 
     # --- Section: Data Assets Overview ---
     if selected_view == "Data Assets Overview":
-        st.subheader("Data Assets: What Each City Provides")
+        st.subheader("2. Data Assets: What Each City Provides")
         st.markdown("Below is an overview of the primary parking datasets available for each city, including their size and content summary.")
 
         col_assets_hd, col_assets_bn = st.columns(2)
@@ -351,7 +320,7 @@ def main():
 
     # --- Section: Dataset Attributes Comparison ---
     if selected_view == "Dataset Attributes":
-        st.subheader("Dataset Attributes: What Information is Available")
+        st.subheader("3. Dataset Attributes: What Information is Available")
         st.markdown("This section compares the attributes (columns/fields) present in each city's datasets. Observing Bonn's comprehensive attributes can help Heidelberg identify areas to enrich its data.")
 
         col_attr_hd, col_attr_bn = st.columns(2)
@@ -385,7 +354,7 @@ def main():
 
     # --- Section: Data Quality Dashboard ---
     if selected_view == "Data Quality Dashboard":
-        st.subheader("Data Quality Dashboard")
+        st.subheader("4. Data Quality Dashboard")
         st.markdown("This section visualizes the completeness of datasets by showing the percentage of missing values per column for each dataset. A higher percentage indicates more missing information for that attribute.")
 
         st.markdown("#### Heidelberg Missing Values")
@@ -438,7 +407,7 @@ def main():
 
     # --- Section: Geographic Distribution ---
     if selected_view == "Geographic Distribution":
-        st.subheader("Geographic Distribution of Parking Facilities")
+        st.subheader("5. Geographic Distribution of Parking Facilities")
         st.markdown("Navigate the map to explore parking locations. Use the sidebar filter to select specific types.")
 
 
@@ -544,9 +513,10 @@ def main():
         *This interactive map visually contrasts the spatial distribution of parking facilities. Bonn's data allows for mapping more specific on-street parking types.*
         """)
 
-# --- Section: Recommendations ---
+
+    # --- Section: Recommendations ---
     if selected_view == "Recommendations":
-        st.subheader("Recommendations for Heidelberg's Open Data Portal")
+        st.subheader("6. Recommendations for Heidelberg's Open Data Portal")
         st.markdown("""
         Based on the comparative analysis with Bonn's data, here are key recommendations for Heidelberg to enhance its open parking data:
         """)
@@ -589,4 +559,3 @@ def main():
         
 if __name__ == "__main__":
     main()
-
