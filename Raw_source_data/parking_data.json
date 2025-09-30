@@ -1,0 +1,7076 @@
+[
+  {
+    "timestamp": "2025-06-12T20:15:23.947997",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "322",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:15",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:15",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "522",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:15",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "071",
+        "status": "0",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "140",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:15",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "252",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:15",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "287",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:15",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "181",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:15",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:15",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "144",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:15",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 20:15",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "259",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:15",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "039",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:15",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:15",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T20:16:24.060162",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "322",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:16",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:16",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "521",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:16",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "071",
+        "status": "0",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "143",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:16",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "253",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:16",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "288",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:16",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "181",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:16",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:16",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "143",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:16",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 20:16",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "259",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:16",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "039",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:16",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:16",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T20:17:24.145480",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "322",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:17",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:17",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "523",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:17",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "071",
+        "status": "0",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:17",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "253",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:17",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "288",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:17",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "182",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:17",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:17",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "144",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:17",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 20:17",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "259",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:17",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "040",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:17",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:17",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T20:18:24.210163",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "322",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:18",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:18",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "525",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:18",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "071",
+        "status": "0",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:18",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "253",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:18",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "289",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:18",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "182",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:18",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:18",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "144",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:18",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 20:18",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "260",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:18",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "041",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:18",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:18",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T20:19:24.305618",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "322",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:19",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:19",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "525",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:19",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "071",
+        "status": "0",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "146",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:19",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "255",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:19",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "289",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:19",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "184",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:19",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:19",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:19",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 20:19",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "260",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:19",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "041",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:19",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:19",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T20:20:24.429025",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "323",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:20",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:20",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "524",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:20",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "071",
+        "status": "0",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "148",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:20",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "255",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:20",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "289",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:20",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "187",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:20",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:20",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "146",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:20",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 20:20",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "261",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:20",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "041",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:20",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:20",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T20:21:24.534306",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "323",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:21",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:21",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "524",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:21",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "071",
+        "status": "0",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "149",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:21",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "255",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:21",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "289",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:21",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "188",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:21",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:21",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "147",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:21",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 20:21",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "259",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:21",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "041",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:21",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:21",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T20:22:24.626369",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "323",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:22",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:22",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "525",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:22",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "071",
+        "status": "0",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "151",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:22",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "255",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:22",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "289",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:22",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "188",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:22",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:22",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "147",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:22",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 20:22",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "259",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:22",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "041",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:22",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:22",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T20:31:22.032320",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "323",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:31",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:31",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "525",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:31",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "155",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:31",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "261",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:31",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "289",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:31",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "195",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:31",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:31",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "151",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:31",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 20:31",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "262",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:31",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "044",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:31",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 20:31",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:04:19.857169",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "327",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:04",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:04",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "544",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:04",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "172",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:04",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "265",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:04",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "305",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:04",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "203",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:04",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:04",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "161",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:04",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:04",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "279",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:04",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "052",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:04",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:04",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:05:20.337960",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "327",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:05",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:05",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "544",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:05",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "172",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:05",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "266",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:05",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "306",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:05",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "203",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:05",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:05",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "161",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:05",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:05",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "280",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:05",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "052",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:05",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:05",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:06:21.462798",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "327",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:06",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:06",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "545",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:06",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "172",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:06",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "266",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:06",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "306",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:06",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "203",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:06",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:06",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "161",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:06",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:06",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "280",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:06",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "052",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:06",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:06",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:07:21.739203",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "327",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:07",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:07",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "547",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:07",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "172",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:07",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "266",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:07",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "308",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:07",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "204",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:07",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:07",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "161",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:07",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:07",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "281",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:07",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "054",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:07",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:07",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:08:22.265682",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "325",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "549",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:08",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "171",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "266",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "307",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:08",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "203",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "160",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:08",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "283",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:08",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "054",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:08",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:09:23.021397",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "324",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:09",
+        "tendenz": "1"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "548",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:09",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "171",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "267",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "308",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:09",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "204",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "161",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "284",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:09",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "054",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:09",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:10:23.299750",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "324",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:10",
+        "tendenz": "1"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:10",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "550",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:10",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "172",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:10",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "267",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:10",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "309",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:10",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "204",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:10",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:10",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "162",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:10",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:10",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "284",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:10",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "056",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:10",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:10",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:11:23.724299",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "324",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:11",
+        "tendenz": "1"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:11",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "551",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:11",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "173",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:11",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "267",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:11",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "309",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:11",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "204",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:11",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:11",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "163",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:11",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:11",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "286",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:11",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "056",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:11",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:11",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:12:23.982208",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "325",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:12",
+        "tendenz": "1"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:12",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "552",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:12",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "173",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:12",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "269",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:12",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "310",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:12",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "205",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:12",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:12",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "163",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:12",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:12",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "287",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:12",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "056",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:12",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:12",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:13:24.319559",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "325",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "553",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "172",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "269",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "310",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "204",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "163",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "288",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "056",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:14:24.665688",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "326",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "555",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "174",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "269",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "314",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "204",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "164",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "288",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "056",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:13",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:15:25.090898",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "326",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:14",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:14",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "557",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:14",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "174",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:14",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "269",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:14",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "314",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:14",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "204",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:14",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:14",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "166",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:14",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:14",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "288",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:14",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "056",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:14",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:14",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:16:25.373306",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "326",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:15",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:15",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "557",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:15",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "174",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:15",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "269",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:15",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "314",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:15",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "206",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:15",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:15",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "167",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:15",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:15",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "288",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:15",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "057",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:15",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:15",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:17:25.883903",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "326",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:16",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:16",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "558",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:16",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "175",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:16",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "269",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:16",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "317",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:16",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "207",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:16",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:16",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "167",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:16",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:16",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "288",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:16",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "057",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:16",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:16",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:18:26.179684",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "326",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:17",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:17",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "558",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:17",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "176",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:17",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "271",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:17",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "318",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:17",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "207",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:17",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:17",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "170",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:17",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:17",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "289",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:17",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "057",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:17",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:17",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:25:14.882179",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "325",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:24",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:24",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "559",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:24",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "180",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:24",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "271",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:24",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "319",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:24",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "208",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:24",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:24",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "178",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:24",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:24",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "292",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:24",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "056",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:24",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:24",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:26:15.347565",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "325",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:25",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:25",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "559",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:25",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "181",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:25",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "271",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:25",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "319",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:25",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "208",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:25",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:25",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "178",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:25",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:25",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "293",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:25",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "057",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:25",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:25",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:30:05.782752",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "325",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:29",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:29",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "562",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:29",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "183",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:29",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "272",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:29",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "318",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:29",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "208",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:29",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:29",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "177",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:29",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:29",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "292",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:29",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "057",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:29",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:29",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:32:59.340041",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "324",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:32",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:32",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "562",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:32",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "184",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:32",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "273",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:32",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "319",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:32",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "207",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:32",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:32",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "179",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:32",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:32",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "296",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:32",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "057",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:32",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:32",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:33:59.722261",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "324",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:33",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:33",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "563",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:33",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "184",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:33",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "272",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:33",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "321",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:33",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "207",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:33",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:33",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "180",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:33",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:33",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "296",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:33",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "057",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:33",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:33",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:35:00.002985",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "324",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:34",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:34",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "562",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:34",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "184",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:34",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "272",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:34",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "323",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:34",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "207",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:34",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:34",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "180",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:34",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:34",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "296",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:34",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "057",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:34",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:34",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:36:00.269055",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "324",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:35",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:35",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "563",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:35",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "184",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:35",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "272",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:35",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "323",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:35",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "206",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:35",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:35",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "180",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:35",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:35",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "295",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:35",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "057",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:35",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:35",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:37:00.516668",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "324",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:36",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:36",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "563",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:36",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "185",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:36",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "272",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:36",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "324",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:36",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "206",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:36",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:36",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "180",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:36",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:36",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "295",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:36",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "057",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:36",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:36",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:38:00.768726",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "325",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:37",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:37",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "563",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:37",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "185",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:37",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "272",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:37",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "324",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:37",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "206",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:37",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:37",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "180",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:37",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:37",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "295",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:37",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "057",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:37",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:37",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:39:01.027383",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "325",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:38",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:38",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "565",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:38",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "185",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:38",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "272",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:38",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "324",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:38",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "206",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:38",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:38",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "182",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:38",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:38",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "295",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:38",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "057",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:38",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:38",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:40:02.191062",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "325",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:39",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:39",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "565",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:39",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "186",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:39",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "272",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:39",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "324",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:39",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "206",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:39",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:39",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "183",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:39",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:39",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "296",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:39",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "057",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:39",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:39",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:41:05.289231",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "325",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:40",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:40",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "565",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:40",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "186",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:40",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "272",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:40",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "324",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:40",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "206",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:40",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:40",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "184",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:40",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:40",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "296",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:40",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "057",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:40",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:40",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:42:07.652202",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "325",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:41",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:41",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "565",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:41",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "189",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:41",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "272",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:41",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "324",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:41",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "206",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:41",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:41",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "184",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:41",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:41",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "296",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:41",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "057",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:41",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:41",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:43:08.001731",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "325",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:42",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:42",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "565",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:42",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "189",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:42",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "272",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:42",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "324",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:42",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "206",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:42",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:42",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "184",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:42",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:42",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "298",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:42",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "057",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:42",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:42",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:56:45.341654",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "328",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:56",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:56",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "574",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:56",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "194",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:56",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "276",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:56",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "333",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:56",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "210",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:56",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:56",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "188",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:56",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:56",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "311",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:56",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "061",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:56",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:56",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:57:45.643154",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "328",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:57",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:57",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "575",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:57",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "194",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:57",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "275",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:57",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "336",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:57",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "210",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:57",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:57",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "188",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:57",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:57",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "312",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:57",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "061",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:57",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:57",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:58:46.189581",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "330",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:58",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:58",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "577",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:58",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "193",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:58",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "275",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:58",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "336",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:58",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "211",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:58",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:58",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "189",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:58",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:58",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "312",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:58",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "061",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:58",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:58",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T21:59:46.481202",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "330",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:59",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:59",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "577",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:59",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "193",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:59",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "275",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:59",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "336",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:59",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "211",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:59",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:59",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "191",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:59",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 21:59",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "312",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:59",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "061",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:59",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "145",
+        "status": "0",
+        "zeitstempel": "12.06.2025 21:59",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T22:00:46.766236",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "330",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:00",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:00",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "577",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:00",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "193",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:00",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "275",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:00",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "337",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:00",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "212",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:00",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:00",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "193",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:00",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 22:00",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "313",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:00",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "061",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:00",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "144",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:00",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T22:01:47.048156",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "330",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:01",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:01",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "576",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:01",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "194",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:01",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "276",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:01",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "338",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:01",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "212",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:01",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:01",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "194",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:01",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 22:01",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "315",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:01",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "061",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:01",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "144",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:01",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T22:02:47.312964",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "330",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:02",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:02",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "576",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:02",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "195",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:02",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "273",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:02",
+        "tendenz": "1"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "338",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:02",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "212",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:02",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:02",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "194",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:02",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 22:02",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "316",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:02",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "061",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:02",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "144",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:02",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T22:03:48.596583",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "330",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:03",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:03",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "576",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:03",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "195",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:03",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "272",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:03",
+        "tendenz": "1"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "339",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:03",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "212",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:03",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:03",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "194",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:03",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 22:03",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "315",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:03",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "061",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:03",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "144",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:03",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T22:04:48.876872",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "330",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:04",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:04",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "577",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:04",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "196",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:04",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "273",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:04",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "340",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:04",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "212",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:04",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:04",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "195",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:04",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 22:04",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "315",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:04",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "062",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:04",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "144",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:04",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T22:05:49.179685",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "329",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:05",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:05",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "577",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:05",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "196",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:05",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "273",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:05",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "341",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:05",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "212",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:05",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:05",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "194",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:05",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 22:05",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "315",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:05",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "062",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:05",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "144",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:05",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T22:06:49.489477",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "329",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:06",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:06",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "577",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:06",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "197",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:06",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "273",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:06",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "342",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:06",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "212",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:06",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:06",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "194",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:06",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 22:06",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "316",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:06",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "062",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:06",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "144",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:06",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T22:07:49.795808",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "329",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:07",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:07",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "577",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:07",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:07",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "273",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:07",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "342",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:07",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "211",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:07",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:07",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "194",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:07",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 22:07",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "316",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:07",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "062",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:07",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "144",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:07",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T22:08:50.092826",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "328",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "577",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "273",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "342",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:08",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "211",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "194",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 22:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "318",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "062",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:08",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "144",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:08",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T22:09:50.351162",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "328",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "579",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "273",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "343",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:09",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "211",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "194",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 22:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "318",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "062",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:09",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "144",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:09",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T22:10:50.594562",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "328",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:10",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:10",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "581",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:10",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "201",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:10",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "273",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:10",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "343",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:10",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "211",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:10",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:10",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "196",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:10",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 22:10",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "319",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:10",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "062",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:10",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "144",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:10",
+        "tendenz": "3"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-12T22:11:50.874859",
+    "data": [
+      {
+        "lfdnr": "1",
+        "bezeichnung": "beethoven",
+        "gesamt": "416",
+        "frei": "328",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:11",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "2",
+        "bezeichnung": "beetplatz",
+        "gesamt": "200",
+        "frei": "200",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:11",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "3",
+        "bezeichnung": "friedensplatz",
+        "gesamt": "810",
+        "frei": "581",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:11",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "4",
+        "bezeichnung": "karstadt",
+        "gesamt": "99",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "25.07.2018 09:13",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "5",
+        "bezeichnung": "markt",
+        "gesamt": "287",
+        "frei": "203",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:11",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "6",
+        "bezeichnung": "muensterplatz",
+        "gesamt": "312",
+        "frei": "274",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:11",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "7",
+        "bezeichnung": "operngarage",
+        "gesamt": "380",
+        "frei": "344",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:11",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "8",
+        "bezeichnung": "Rabinstrasse",
+        "gesamt": "305",
+        "frei": "211",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:11",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "9",
+        "bezeichnung": "rheinaue",
+        "gesamt": "240",
+        "frei": "220",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:11",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "10",
+        "bezeichnung": "stadthaus",
+        "gesamt": "320",
+        "frei": "197",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:11",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "11",
+        "bezeichnung": "stadthaus_unten",
+        "gesamt": "360",
+        "frei": "000",
+        "status": "2",
+        "zeitstempel": "12.06.2025 22:11",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "12",
+        "bezeichnung": "unigarage",
+        "gesamt": "438",
+        "frei": "320",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:11",
+        "tendenz": "2"
+      },
+      {
+        "lfdnr": "13",
+        "bezeichnung": "hauptbahnhof",
+        "gesamt": "94",
+        "frei": "062",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:11",
+        "tendenz": "3"
+      },
+      {
+        "lfdnr": "14",
+        "bezeichnung": "bike_ride",
+        "gesamt": "220",
+        "frei": "144",
+        "status": "0",
+        "zeitstempel": "12.06.2025 22:11",
+        "tendenz": "3"
+      }
+    ]
+  }
+]

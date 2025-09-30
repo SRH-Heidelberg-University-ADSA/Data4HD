@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1609930235, 50.683345638]
+      },
+      "properties": {
+        "point_id": 653265,
+        "name": "Bad Godesberg Bf.",
+        "ort": "50    ",
+        "ort_bezeichnung": "Bonn",
+        "strasse": 2432,
+        "strasse_bezeichnung": "Von-Groote-Platz",
+        "hausnr": null,
+        "plz": null,
+        "telefon": null,
+        "fax": null,
+        "email": null,
+        "internet": null,
+        "traeger": null,
+        "oeffentlich": 1,
+        "barrierefrei": 0,
+        "sammelfeld": "  ",
+        "erfassung_datum": "2006-05-19T00:00:00+02:00",
+        "strasse_ort": "0050-02432",
+        "plzort": "Bonn",
+        "adresse": "Von-Groote-Platz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1277603735, 50.7378442537]
+      },
+      "properties": {
+        "point_id": 653266,
+        "name": "Beuel Bf.",
+        "ort": "50    ",
+        "ort_bezeichnung": "Bonn",
+        "strasse": 3062,
+        "strasse_bezeichnung": "Beueler Bahnhofsplatz",
+        "hausnr": null,
+        "plz": null,
+        "telefon": null,
+        "fax": null,
+        "email": null,
+        "internet": null,
+        "traeger": null,
+        "oeffentlich": 1,
+        "barrierefrei": 0,
+        "sammelfeld": "  ",
+        "erfassung_datum": "2006-05-19T00:00:00+02:00",
+        "strasse_ort": "0050-03062",
+        "plzort": "Bonn",
+        "adresse": "Beueler Bahnhofsplatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1814738846, 50.6694931823]
+      },
+      "properties": {
+        "point_id": 653267,
+        "name": "Mehlem Bf.",
+        "ort": "50    ",
+        "ort_bezeichnung": "Bonn",
+        "strasse": 2267,
+        "strasse_bezeichnung": "Mainzer Straße",
+        "hausnr": null,
+        "plz": null,
+        "telefon": null,
+        "fax": null,
+        "email": null,
+        "internet": null,
+        "traeger": null,
+        "oeffentlich": 1,
+        "barrierefrei": 0,
+        "sammelfeld": "  ",
+        "erfassung_datum": "2006-05-19T00:00:00+02:00",
+        "strasse_ort": "0050-02267",
+        "plzort": "Bonn",
+        "adresse": "Mainzer Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1554299318, 50.7218322096]
+      },
+      "properties": {
+        "point_id": 653268,
+        "name": "Ramersdorf (U-Bahn)",
+        "ort": "50    ",
+        "ort_bezeichnung": "Bonn",
+        "strasse": 3202,
+        "strasse_bezeichnung": "Oberkasseler Straße",
+        "hausnr": null,
+        "plz": null,
+        "telefon": null,
+        "fax": null,
+        "email": null,
+        "internet": null,
+        "traeger": null,
+        "oeffentlich": 1,
+        "barrierefrei": 0,
+        "sammelfeld": "  ",
+        "erfassung_datum": "2006-05-19T00:00:00+02:00",
+        "strasse_ort": "0050-03202",
+        "plzort": "Bonn",
+        "adresse": "Oberkasseler Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1583026197, 50.6797126692]
+      },
+      "properties": {
+        "point_id": 743449,
+        "name": "Bad Godesberg (Stadthalle)",
+        "ort": "50    ",
+        "ort_bezeichnung": "Bonn",
+        "strasse": 2125,
+        "strasse_bezeichnung": "Friedrich-Ebert-Straße",
+        "hausnr": null,
+        "plz": null,
+        "telefon": null,
+        "fax": null,
+        "email": null,
+        "internet": null,
+        "traeger": null,
+        "oeffentlich": 1,
+        "barrierefrei": 0,
+        "sammelfeld": "  ",
+        "erfassung_datum": "2010-11-15T00:00:00+01:00",
+        "strasse_ort": "0050-02125",
+        "plzort": "Bonn",
+        "adresse": "Friedrich-Ebert-Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0430754952, 50.7164406016]
+      },
+      "properties": {
+        "point_id": 743450,
+        "name": "Duisdorf Bf.",
+        "ort": "50    ",
+        "ort_bezeichnung": "Bonn",
+        "strasse": 4457,
+        "strasse_bezeichnung": "Ladestraße",
+        "hausnr": null,
+        "plz": "53123",
+        "telefon": null,
+        "fax": null,
+        "email": null,
+        "internet": null,
+        "traeger": null,
+        "oeffentlich": 1,
+        "barrierefrei": 0,
+        "sammelfeld": "  ",
+        "erfassung_datum": "2010-11-15T00:00:00+01:00",
+        "strasse_ort": "0050-04457",
+        "plzort": "53123 Bonn",
+        "adresse": "Ladestraße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1286159966, 50.7504485084]
+      },
+      "properties": {
+        "point_id": 743451,
+        "name": "Vilich (U-Bahn)",
+        "ort": "50    ",
+        "ort_bezeichnung": "Bonn",
+        "strasse": 3070,
+        "strasse_bezeichnung": "Sankt Augustiner Straße",
+        "hausnr": null,
+        "plz": null,
+        "telefon": null,
+        "fax": null,
+        "email": null,
+        "internet": null,
+        "traeger": null,
+        "oeffentlich": 1,
+        "barrierefrei": 0,
+        "sammelfeld": "  ",
+        "erfassung_datum": "2010-11-15T00:00:00+01:00",
+        "strasse_ort": "0050-03070",
+        "plzort": "Bonn",
+        "adresse": "Sankt Augustiner Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.055771087, 50.7430836243]
+      },
+      "properties": {
+        "point_id": 743457,
+        "name": "Tannenbusch-Süd",
+        "ort": "50    ",
+        "ort_bezeichnung": "Bonn",
+        "strasse": 1343,
+        "strasse_bezeichnung": "Hohe Straße",
+        "hausnr": null,
+        "plz": null,
+        "telefon": null,
+        "fax": null,
+        "email": null,
+        "internet": null,
+        "traeger": null,
+        "oeffentlich": 1,
+        "barrierefrei": 0,
+        "sammelfeld": "  ",
+        "erfassung_datum": "2010-11-19T00:00:00+01:00",
+        "strasse_ort": "0050-01343",
+        "plzort": "Bonn",
+        "adresse": "Hohe Straße"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.111321573, 50.7629256778]
+      },
+      "properties": {
+        "point_id": 744607,
+        "name": "Park & Ride Siegaue",
+        "ort": "50    ",
+        "ort_bezeichnung": "Bonn",
+        "strasse": 3379,
+        "strasse_bezeichnung": "Niederkasseler Straße",
+        "hausnr": null,
+        "plz": null,
+        "telefon": null,
+        "fax": null,
+        "email": null,
+        "internet": null,
+        "traeger": null,
+        "oeffentlich": 1,
+        "barrierefrei": 0,
+        "sammelfeld": null,
+        "erfassung_datum": null,
+        "strasse_ort": "0050-03379",
+        "plzort": "Bonn",
+        "adresse": "Niederkasseler Straße"
+      }
+    }
+  ]
+}

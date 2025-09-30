@@ -1,0 +1,518 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1015084291, 50.7382699569]
+      },
+      "properties": {
+        "poi_id": 635666,
+        "name": "Stiftsgarage",
+        "plz": "53111",
+        "ort": "Bonn",
+        "strasse": "Kölnstr. ",
+        "hausnr": "10-16",
+        "tel": "0228 63 48 14",
+        "email": "info@stiftsgarage.de",
+        "internet": "www.stiftsgarage.de",
+        "parkhaus_id": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0941388015, 50.737643341]
+      },
+      "properties": {
+        "poi_id": 637245,
+        "name": "Stadthaus-Garage",
+        "plz": "53111",
+        "ort": "Bonn",
+        "strasse": "Weiherstr. ",
+        "hausnr": "5",
+        "tel": "0228 /  96 99 191",
+        "email": null,
+        "internet": "bcp-bonn.de/stadthausgarage",
+        "parkhaus_id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1564619193, 50.6855212863]
+      },
+      "properties": {
+        "poi_id": 641638,
+        "name": "Kinopolis-Garage",
+        "plz": "53177",
+        "ort": "Bonn",
+        "strasse": "Moltkestr. ",
+        "hausnr": "15",
+        "tel": null,
+        "email": null,
+        "internet": "www.kinopolis.de/bn/kinoinformation",
+        "parkhaus_id": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1028498059, 50.7394499329]
+      },
+      "properties": {
+        "poi_id": 642858,
+        "name": "Beethoven-Parkhaus",
+        "plz": "53111",
+        "ort": "Bonn",
+        "strasse": "Engeltalstr. ",
+        "hausnr": "2",
+        "tel": "0228 / 96 99 191",
+        "email": null,
+        "internet": "bcp-bonn.de/beethoven-parkhaus",
+        "parkhaus_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0993983962, 50.7378938307]
+      },
+      "properties": {
+        "poi_id": 644459,
+        "name": "Oxford-Garage",
+        "plz": "53111",
+        "ort": "Bonn",
+        "strasse": "Oxfordstr. ",
+        "hausnr": "12-16",
+        "tel": null,
+        "email": null,
+        "internet": "www.bonn.de/themen-entdecken/verkehr-mobilitaet/parken.php",
+        "parkhaus_id": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0963749896, 50.7357344926]
+      },
+      "properties": {
+        "poi_id": 644460,
+        "name": "City-Garage",
+        "plz": "53111",
+        "ort": "Bonn",
+        "strasse": "Poststr. ",
+        "hausnr": "24-27",
+        "tel": null,
+        "email": null,
+        "internet": "www.apcoa.de/parken/bonn/",
+        "parkhaus_id": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0968977885, 50.7369302894]
+      },
+      "properties": {
+        "poi_id": 644461,
+        "name": "Friedensplatzgarage",
+        "plz": "53111",
+        "ort": "Bonn",
+        "strasse": "Oxfordstr. ",
+        "hausnr": "23",
+        "tel": "02 28 / 96 99 191",
+        "email": null,
+        "internet": "bcp-bonn.de/friedensplatzgarage",
+        "parkhaus_id": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1033234547, 50.734721028]
+      },
+      "properties": {
+        "poi_id": 644462,
+        "name": "Marktgarage",
+        "plz": "53113",
+        "ort": "Bonn",
+        "strasse": "Stockenstr. ",
+        "hausnr": "3",
+        "tel": "0228 / 96 99 191",
+        "email": null,
+        "internet": "bcp-bonn.de/marktgarage",
+        "parkhaus_id": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0961053714, 50.7337472516]
+      },
+      "properties": {
+        "poi_id": 644463,
+        "name": "Alte Bahnhofgarage (Münsterstraße)",
+        "plz": "53111",
+        "ort": "Bonn",
+        "strasse": "Münsterstr.",
+        "hausnr": "",
+        "tel": null,
+        "email": null,
+        "internet": "bcp-bonn.de/alte-bahnhofgarage",
+        "parkhaus_id": 113
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1041398998, 50.7340160733]
+      },
+      "properties": {
+        "poi_id": 644464,
+        "name": "Unigarage",
+        "plz": "53113",
+        "ort": "Bonn",
+        "strasse": "Regina-Pacis-Weg ",
+        "hausnr": "3",
+        "tel": "0228 / 96 99 191",
+        "email": null,
+        "internet": "bcp-bonn.de/unigarage",
+        "parkhaus_id": 112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1525589815, 50.6848096749]
+      },
+      "properties": {
+        "poi_id": 646661,
+        "name": "City-Terrassen",
+        "plz": "53177",
+        "ort": "Bonn",
+        "strasse": "Villichgasse",
+        "hausnr": "",
+        "tel": null,
+        "email": null,
+        "internet": "www.bonn.de/themen-entdecken/verkehr-mobilitaet/parken.php",
+        "parkhaus_id": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1067947591, 50.7374399564]
+      },
+      "properties": {
+        "poi_id": 647233,
+        "name": "Parkhaus Oper",
+        "plz": "53111",
+        "ort": "Bonn",
+        "strasse": "Brassertufer",
+        "hausnr": "",
+        "tel": null,
+        "email": null,
+        "internet": "bcp-bonn.de/operngarage",
+        "parkhaus_id": 107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1205902649, 50.7128411006]
+      },
+      "properties": {
+        "poi_id": 648873,
+        "name": "Parkhaus der Kunst- und Ausstellungshalle der BR Deutschland",
+        "plz": "53113",
+        "ort": "Bonn",
+        "strasse": "Joseph-Beuys-Allee ",
+        "hausnr": "4",
+        "tel": null,
+        "email": null,
+        "internet": "www.bonn.de/themen-entdecken/verkehr-mobilitaet/parken.php",
+        "parkhaus_id": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1150656152, 50.7383592523]
+      },
+      "properties": {
+        "poi_id": 649429,
+        "name": "Parkhaus im Brückenforum",
+        "plz": "53225",
+        "ort": "Bonn",
+        "strasse": "Friedrich-Breuer-Str. ",
+        "hausnr": "17-19",
+        "tel": null,
+        "email": null,
+        "internet": "www.contipark.de/de-DE/find-parking/bonn-parkhaus-brueckenforum",
+        "parkhaus_id": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1516365728, 50.6825010475]
+      },
+      "properties": {
+        "poi_id": 651657,
+        "name": "Parkhaus Fronhofer Galeria",
+        "plz": "53177",
+        "ort": "Bonn",
+        "strasse": "Schwertberger Str. ",
+        "hausnr": "14",
+        "tel": null,
+        "email": null,
+        "internet": "www.fronhofer-galeria.de/ueber-uns/parken",
+        "parkhaus_id": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1542385691, 50.6860287838]
+      },
+      "properties": {
+        "poi_id": 653264,
+        "name": "Parkhaus im Lindeblock",
+        "plz": "53173",
+        "ort": "Bonn",
+        "strasse": "Moltkestr. ",
+        "hausnr": "12",
+        "tel": null,
+        "email": null,
+        "internet": "www.bonn.de/themen-entdecken/verkehr-mobilitaet/parken.php",
+        "parkhaus_id": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0917832073, 50.734992359]
+      },
+      "properties": {
+        "poi_id": 743104,
+        "name": "Parkhaus Hauptbahnhof City",
+        "plz": "53111",
+        "ort": "Bonn",
+        "strasse": "Am Alten Friedhof ",
+        "hausnr": "17",
+        "tel": null,
+        "email": null,
+        "internet": "mein-contipark.de/parkplatz-finden/parken-in-bonn/parkhaus-hauptbahnhof-city-bonn--ci3cp115450198",
+        "parkhaus_id": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1555016712, 50.7179828629]
+      },
+      "properties": {
+        "poi_id": 743634,
+        "name": "Parkhaus 3 am Bonner Bogen",
+        "plz": "53227",
+        "ort": "Bonn",
+        "strasse": "Konrad-Zuse-Platz ",
+        "hausnr": "5",
+        "tel": null,
+        "email": "bonnerbogen@parkhaus-service.de",
+        "internet": "www.bonnvisio.com/website/immobilien/parkhaus-3",
+        "parkhaus_id": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1045874153, 50.6977292366]
+      },
+      "properties": {
+        "poi_id": 743635,
+        "name": "Parkhaus Süd (Uniklinikum Venusberg)",
+        "plz": "Bonn",
+        "ort": "",
+        "strasse": "Venusberg-Campus ",
+        "hausnr": "1",
+        "tel": null,
+        "email": null,
+        "internet": null,
+        "parkhaus_id": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1199341728, 50.7399586734]
+      },
+      "properties": {
+        "poi_id": 743981,
+        "name": "Tiefgarage Rathausplatz",
+        "plz": "53225",
+        "ort": "Bonn",
+        "strasse": "Rathausstr.",
+        "hausnr": "",
+        "tel": null,
+        "email": null,
+        "internet": "www.bonn.de/themen-entdecken/verkehr-mobilitaet/parken.php",
+        "parkhaus_id": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1212425961, 50.7190527514]
+      },
+      "properties": {
+        "poi_id": 743987,
+        "name": "World Conference Center Bonn Parkhaus",
+        "plz": "53113",
+        "ort": "Bonn",
+        "strasse": "Karl-Carstens-Str. ",
+        "hausnr": "4",
+        "tel": null,
+        "email": "info@worldccbonn.com",
+        "internet": "www.worldccbonn.com/kontakt/anfahrt-mit-dem-pkw/parkhaus.html",
+        "parkhaus_id": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0920883969, 50.7319156474]
+      },
+      "properties": {
+        "poi_id": 744036,
+        "name": "LVR-LandesMuseum",
+        "plz": "53115",
+        "ort": "Bonn",
+        "strasse": "Colmantstr. ",
+        "hausnr": "14-16",
+        "tel": null,
+        "email": null,
+        "internet": "www.parkopedia.de/parken/tiefgarage/lvr_landesmuseum/53115/bonn/?arriving=202501200730&amp;leaving=202501200930#google_vignette",
+        "parkhaus_id": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1065989386, 50.7382997197]
+      },
+      "properties": {
+        "poi_id": 744134,
+        "name": "Parkhaus im Dorint Hotel",
+        "plz": "53111",
+        "ort": "Bonn",
+        "strasse": "Josefstr.",
+        "hausnr": "",
+        "tel": null,
+        "email": null,
+        "internet": "www.bonn.de/themen-entdecken/verkehr-mobilitaet/parken.php",
+        "parkhaus_id": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0932919512, 50.7334452852]
+      },
+      "properties": {
+        "poi_id": 744205,
+        "name": "Parkhaus Hauptbahnhof Bonn",
+        "plz": "53111",
+        "ort": "Bonn",
+        "strasse": "Rabinstr. ",
+        "hausnr": "2",
+        "tel": null,
+        "email": null,
+        "internet": "www.mein-contipark.de/parkplatz-finden/parken-in-bonn/parkhaus-hauptbahnhof-city-bonn--ci3cp115450198",
+        "parkhaus_id": 108
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1041084732, 50.7230590506]
+      },
+      "properties": {
+        "poi_id": 744436,
+        "name": "Südstadtgarage",
+        "plz": "53113",
+        "ort": "Bonn",
+        "strasse": "Bonner Talweg ",
+        "hausnr": "83-89",
+        "tel": null,
+        "email": null,
+        "internet": null,
+        "parkhaus_id": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.0963749896, 50.7357344926]
+      },
+      "properties": {
+        "poi_id": 744437,
+        "name": "Münsterplatzgarage",
+        "plz": "53111",
+        "ort": "Bonn",
+        "strasse": "Budapester Str. ",
+        "hausnr": "1",
+        "tel": null,
+        "email": null,
+        "internet": "bcp-bonn.de/muensterplatzgarage/",
+        "parkhaus_id": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.1319901836, 50.7180362059]
+      },
+      "properties": {
+        "poi_id": 744608,
+        "name": "Parkplatz Charles de Gaulle Str.",
+        "plz": "Bonn",
+        "ort": "",
+        "strasse": "Charles-de-Gaulle-Str.",
+        "hausnr": "",
+        "tel": null,
+        "email": null,
+        "internet": "bcp-bonn.de/parkplatz-charles-de-gaulle-str/",
+        "parkhaus_id": null
+      }
+    }
+  ]
+}
