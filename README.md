@@ -53,6 +53,10 @@ Based on our findings, we proposed five key strategic recommendations for the Ci
 * **Implement Robust Data Quality Assurance**: Establish a formal data governance framework with automated validation and clear metadata standards.
 * **Promote Data Usage & Foster Innovation**: Actively engage with the local tech community and universities to encourage the development of third-party applications.
 
+## Manuscript
+
+Find our case study manuscript at https://srhk.sharepoint.com/:o:/r/sites/25s-2001-Data4HD/Freigegebene%20Dokumente/Data4HD/case%20study%20Documentation?d=weed476eb0a544f9ca994c194854772aa&csf=1&web=1&e=3f1rGf
+
 ## 💻 Technology Stack
 
 This project utilized a variety of tools for data analysis, visualization, and presentation:
